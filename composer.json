@@ -1,0 +1,20 @@
+{
+    "name": "abelacostaec/asaa-frm",
+    "description": "Asaa Framework project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "AsaaTest",
+            "email": "abelcoc06@gmail.com"
+        }
+    ],
+    "require": {
+        "abelacostaec/asaa-framework": "^0.1.0"
+    }
+}
